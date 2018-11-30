@@ -1,8 +1,8 @@
 # pgpool-docker
 
-PGPool2 3.7.5 的 debian9 docker image
+PGPool2 3.7.5
 
-# Ejecutar
+## Ejecutar
 
 ```
 docker run -it --rm rueian/pgpool:3.7.5-debian9
